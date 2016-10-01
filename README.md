@@ -8,4 +8,4 @@
     
 2. Then we improved th frame rate to make it look smoothly.
 
-3. Because of grids around obstacles is calculate differently, there will be 1 pixel tolerance that we can't fix.
+3. Because of grids around obstacles is calculated differently, there will be 1 pixel tolerance that we can't fix.
