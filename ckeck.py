@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 28 22:32:29 2016
 
-@author: JARVIS
+@author: 洪浚皓＆陳博允
 """
 import sys
 reload(sys)
