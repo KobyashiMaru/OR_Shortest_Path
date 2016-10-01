@@ -1,0 +1,9 @@
+1. Bot picture improvement.
+
+2. Bot color improvement, but not shape.
+
+3. FPS improvement, this bot can move 1 pixel for
+	each picture, sot it will move smoothly.
+
+4. Appendix of FPS improvement:
+	Obstacles to leaf is not fixed yet.
