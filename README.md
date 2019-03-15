@@ -16,4 +16,4 @@
 
 5. The video is kind of bulr because of using 360*270pix picture making animation.
 
-6. It's possible that bot is placed in any position on the map, we just set top left as initial point.
+6. It's possible that bot is placed in any position on the map, we just set top left as initial point for demonstration.
